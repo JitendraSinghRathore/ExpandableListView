@@ -1,3 +1,3 @@
 # ExpandableListView
 
-<img src="https://github.com/1211amarsingh/ExpandableListView/blob/master/sample_img.jpg" alt="" width="200"></p>
+<img src="https://github.com/1211amarsingh/ExpandableListView/blob/master/sample_img.jpg" alt="" width="250"></p>
